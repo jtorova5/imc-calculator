@@ -1,3 +1,5 @@
+import './style.css'
+
 document.getElementById("imc-form").addEventListener("submit", function (event) {
   event.preventDefault();
 
